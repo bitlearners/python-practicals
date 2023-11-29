@@ -1,3 +1,4 @@
+# Developer: Bitlearners
 # Write a Python program to input any 10 numbers and calculate their average using user defined function?
 def calculate_average(numbers):
     total = sum(numbers)
