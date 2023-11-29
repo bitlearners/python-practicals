@@ -1,4 +1,5 @@
-# Input from the user
+# Developer: Bitlearners
+#Write a Python program to swap two variables
 variable1 = input("Enter the value for variable1: ")
 variable2 = input("Enter the value for variable2: ")
 
