@@ -1,3 +1,5 @@
+# Developer: Bitlearners
+#Write a Python program to find the area of rectangle, square, circle and triangle by accepting suitable input parameters from user using user-defined function
 import math
 
 # Function to calculate area of rectangle
