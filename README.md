@@ -1,6 +1,8 @@
 
 ![bitlearners](https://github.com/bitlearners/python-assignment/assets/81581862/674b2b06-2979-4cc1-929e-b41fa50f536b)
 
+# Hi 👋, I'm Abhishek Parate
+
 # Python Practicals
 Welcome to the MCM Practicals repository! This space is dedicated to collecting and sharing practicals for Master of Commerce & Computer Management (MCCM) students Whether you're a student looking for reference material or an instructor seeking inspiration for course content, this repository aims to be a valuable resource.
 
